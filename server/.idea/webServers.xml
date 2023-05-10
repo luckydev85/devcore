@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b653896f-b5b4-4b55-887d-20b5b6c23ede" name="homestead" url="http://localhost">
+        <fileTransfer mountedRoot="C:\Users\janne\OneDrive\Desktop\Work\Projects\devcore-serv\devcore_server_lavarel" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
